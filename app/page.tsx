@@ -15,7 +15,7 @@ export default function HomePage() {
             <main className="py-10 mx-auto max-w-7xl">
               <section className="grid grid-cols-12 gap-4 bg-sky-300 "> 
                   <div className="col-span-3 bg-red-300 rounded-xl">
-                    <h1 className="text-4xl font-bold text-center">ENACTUnSn FSBM</h1>
+                    <h1 className="text-4xl font-bold text-center">ENACTUnSnhhj FSBM</h1>
                     <p className="text-center">Enactus est un réseau mondial qui inspire les jeunes à utiliser l'entrepreneuriat pour résoudre les défis sociaux et économiques. Enactus Maroc, fondé en 2003, fait partie de ce réseau et offre aux étudiants l'opportunité de concrétiser des projets innovants ayant un impact direct sur leur communauté. </p>
                   </div> 
                   <div className="col-span-6 bg-red-300 ">
